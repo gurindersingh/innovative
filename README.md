@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Seed the database and login with credentials to get started
+Seed the database and login with credentials to get started.
 
 ```sh
 php artisan migrate --seed
