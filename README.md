@@ -18,7 +18,7 @@ Visit `/dashboard/parts`. Here you can create, edit or delete the part and can a
 
 ## Search & Export
 
-Click `Search & Export` button to open up a modal. In the modal, You will be able to search and export the document. Available formats are `JSON`, `PDF`, and `CSV`
+Click `Search & Export` button to open up a modal. In the modal, You will be able to search and export the document. Available formats are `PDF`, and `CSV`
 
 ## Testing
 
